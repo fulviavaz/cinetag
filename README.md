@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+# This is a video player app - using context API and React router dom 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
